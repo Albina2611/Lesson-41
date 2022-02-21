@@ -1,0 +1,40 @@
+.pop_up{
+    width: 300px;
+    height: 70px;
+    font-size: 30px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid gray;
+    background-color: rgb(250, 235, 216);
+    border-radius: 8px;
+    position: absolute;
+    top: 20px;
+    right: 45%;
+}
+
+.show_pop_up{
+    display: flex;
+}
+
+.img1{   
+    display: inline;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 2px solid gray;
+}
+.img2{   
+    display: inline;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 2px solid gray;
+}
+.img3{   
+    display: inline;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 2px solid gray;
+}
